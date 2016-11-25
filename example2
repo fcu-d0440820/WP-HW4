@@ -16,6 +16,7 @@
 					$("input:third").click(function(){
 					$(".test2").hide
 					});
+					
 				</script>
 		<body>
 			<h1>Web Programming</h1>
